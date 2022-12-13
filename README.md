@@ -27,7 +27,6 @@ This is a document where you can find all the good practices to maintain your ph
     - There are many different encryption software tools that can be used to encrypt data on smartphones. Some popular options include:
       - Android built-in encryption feature: Available on most Android devices running Android 5.0 (released in November, 2014) or later and can be used to encrypt the device's internal storage.
       - Apple's built-in encryption feature: This is available on all Iphones running iOS 8 (released in September, 2014) or later and can be used to encrypt the device's internal storage. 
-      - Symantec Encryption Desktop: A commercial encryption tool that can be used to encrypt files, folders, and email messages on both Windows and MacOS devices.
       - AxCrypt: a user-friendly encryption tool that can be used to encrypt individual files and folders on both Android and iOS devices.
 7. Be cautious when installing apps.
      - Only download apps from trusted sources, such as PlayStore or AppStore, and be careful about the permissions you grant to apps. 
